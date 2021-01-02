@@ -9,6 +9,7 @@ import addRecipeView from './views/addRecipeView';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import { async } from 'regenerator-runtime';
 
 // Hot Module Replacement (HMR)
 // if (module.hot) {
