@@ -22,7 +22,7 @@ node_modules/
 .env*
 
 # parcel files
-.parcel-cache/
+.cache/
 dist
 
 # Mac files
